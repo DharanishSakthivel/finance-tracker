@@ -1,8 +1,5 @@
 # finance-tracker
 Personal finance tracking app with budgeting and multi-currency support
-# Finance Tracker
-
-A full-stack personal finance tracking application with user authentication, budgeting, multi-currency support, and WhatsApp integration.
 
 ## Features
 
